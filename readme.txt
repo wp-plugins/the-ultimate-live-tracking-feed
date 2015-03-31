@@ -1,7 +1,7 @@
 === The Ultimate Live Tracking Feed ===
 Contributors: Nimish Gupta
 Donate link: http://www.live.nimlinks.com/donation/
-Tags: live.nimlinks, live, traffic, live traffic, live users, online users, browsing users, traffic widget,The Ultimate Live Tracking Feed
+Tags: nimlinks,live.nimlinks, live, traffic, live traffic, live users, online users, browsing users, traffic widget,The Ultimate Live Tracking Feed,The ultimate live tracker
 Requires at least: 3.0
 Tested up to: 4.1
 Stable tag: 1.0.0
