@@ -11,6 +11,15 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 }
 
 delete_option('live-nimlinks');
+delete_option( 'live_BorderRadius');
+delete_option( 'live_Width');
+delete_option( 'live_BackgroundColor');
+delete_option( 'live_BorderColor');
+delete_option( 'live_TextColor');
+delete_option( 'live_OnlineSize');
+delete_option( 'live_CounterValuesSize');
+delete_option( 'live_CounterHeadingSize');
+delete_option( 'live_Line');
 
 function remove_LiveTracker_widget() {
 	unregister_widget('LiveTracker');
