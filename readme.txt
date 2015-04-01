@@ -17,6 +17,7 @@ It can provide you visitors Browser Name,Operating System,Country Name,Country F
 
 Web Application is Developed by :
 Nimish Gupta
+
 Vivek Raj Agarwal
 
 = Tracker Features: =
@@ -60,6 +61,9 @@ Yes. You can use colour picker to customize complete look and feel.
 
 == Changelog ==
 
+= 1.0.1 =
+* Bugs Fixes .
+
 = 1.0.0 =
 * Free Public Plugin .
 
@@ -73,4 +77,4 @@ Yes. You can use colour picker to customize complete look and feel.
 
 == Upgrade Notice ==
 
-* Initial commit fail fixed.
+* Bugs Fixes
