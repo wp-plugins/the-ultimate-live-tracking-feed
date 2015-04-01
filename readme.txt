@@ -4,7 +4,7 @@ Donate link: http://www.live.nimlinks.com/donation/
 Tags: nimlinks,live.nimlinks, live, traffic, live traffic, live users, online users, browsing users, traffic widget,The Ultimate Live Tracking Feed,The ultimate live tracker
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL v3
 License URI: http://www.gnu.org/copyleft/gpl.html
 
@@ -17,7 +17,7 @@ It can provide you visitors Browser Name,Operating System,Country Name,Country F
 
 Web Application is Developed by :
 
-Nimish Gupta
+Nimish Gupta & 
 Vivek Raj Agarwal
 
 = Tracker Features: =

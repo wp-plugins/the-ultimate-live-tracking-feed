@@ -4,7 +4,7 @@ Plugin Name: The Ultimate Live Tracking Feed
 Plugin URI: http://www.live.nimlinks.com/wp/
 Description: This plugin Tracks Realtime Live Visitors Feed.
 Author: Nimish Gupta
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://www.nimlinks.com/
 License:           GPL-2.0+
 License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
