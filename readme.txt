@@ -1,4 +1,4 @@
-=== The Ultimate Live Tracker ===
+=== The Ultimate Live Tracking Feed ===
 Contributors: Nimish Gupta
 Donate link: http://www.live.nimlinks.com/donation/
 Tags: nimlinks,live.nimlinks, live, traffic, live traffic, live users, online users, browsing users, traffic widget,The Ultimate Live Tracking Feed,The ultimate live tracker
@@ -17,7 +17,6 @@ It can provide you visitors Browser Name,Operating System,Country Name,Country F
 
 Web Application is Developed by :
 Nimish Gupta
-
 Vivek Raj Agarwal
 
 = Tracker Features: =
