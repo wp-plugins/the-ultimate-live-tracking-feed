@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: The Ultimate Live Tracking Feed
+Plugin Name: The Ultimate Live Tracker
 Plugin URI: http://www.live.nimlinks.com/wp/
 Description: This plugin Tracks Realtime Live Visitors Feed.
 Author: Nimish Gupta
