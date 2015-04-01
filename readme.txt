@@ -1,4 +1,4 @@
-=== The Ultimate Live Tracker ===
+=== The Ultimate Live Tracking Feed ===
 Contributors: Nimish Gupta
 Donate link: http://www.live.nimlinks.com/donation/
 Tags: nimlinks,live.nimlinks, live, traffic, live traffic, live users, online users, browsing users, traffic widget,The Ultimate Live Tracking Feed,The ultimate live tracker
@@ -16,8 +16,8 @@ The Ultimate Live Tracking Feed by Live.Nimlinks.com is BEST Tool for Live Visit
 It can provide you visitors Browser Name,Operating System,Country Name,Country Flag,City Name,Referrer URL,Viewed Page,Search Query(Google,Bing),Detects Bots,Crawlers,Spiders,Time Of Entry,Total Activities of All Users,Recently Online Users
 
 Web Application is Developed by :
-Nimish Gupta
 
+Nimish Gupta & 
 Vivek Raj Agarwal
 
 = Tracker Features: =
@@ -77,4 +77,4 @@ Yes. You can use colour picker to customize complete look and feel.
 
 == Upgrade Notice ==
 
-* Initial commit fail fixed.
+* Bugs Fixes
