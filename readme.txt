@@ -1,10 +1,10 @@
-=== The Ultimate Live Tracking Feed ===
+=== The Ultimate Live Tracker ===
 Contributors: Nimish Gupta
 Donate link: http://www.live.nimlinks.com/donation/
 Tags: nimlinks,live.nimlinks, live, traffic, live traffic, live users, online users, browsing users, traffic widget,The Ultimate Live Tracking Feed,The ultimate live tracker
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL v3
 License URI: http://www.gnu.org/copyleft/gpl.html
 
@@ -14,6 +14,10 @@ Best live traffic feed plugin.It is the Combo of : Live Tracking Feed+ Recent Vi
 
 The Ultimate Live Tracking Feed by Live.Nimlinks.com is BEST Tool for Live Visitor Tracking Feed for Websites and Blogs or Any Other Online Content.It has advance tracking system with accuracy of 99.99%.
 It can provide you visitors Browser Name,Operating System,Country Name,Country Flag,City Name,Referrer URL,Viewed Page,Search Query(Google,Bing),Detects Bots,Crawlers,Spiders,Time Of Entry,Total Activities of All Users,Recently Online Users
+
+Web Application is Developed by :
+Nimish Gupta
+Vivek Raj Agarwal
 
 = Tracker Features: =
 

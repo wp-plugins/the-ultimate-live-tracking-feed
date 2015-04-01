@@ -20,6 +20,7 @@ delete_option( 'live_OnlineSize');
 delete_option( 'live_CounterValuesSize');
 delete_option( 'live_CounterHeadingSize');
 delete_option( 'live_Line');
+delete_option( 'live_Recent');
 
 function remove_LiveTracker_widget() {
 	unregister_widget('LiveTracker');

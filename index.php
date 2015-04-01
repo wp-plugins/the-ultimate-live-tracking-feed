@@ -125,6 +125,7 @@ function cccomm_option_page()
 		update_option( 'live_CounterValuesSize', $_POST['live_CounterValuesSize']);
 		update_option( 'live_CounterHeadingSize', $_POST['live_CounterHeadingSize']);
 		update_option( 'live_Line', $_POST['live_Line']);
+			update_option( 'live_Recent', $_POST['live_Recent']);
 		?>
 		<div id="message" class="updated">Live Tracking Widget is Updated</div>
 		<?php
@@ -141,6 +142,21 @@ function cccomm_option_page()
     <table border="0">
     <tr>
     <td>
+   <?php
+	if(get_option('live_Recent')!="1"  ){
+		update_option( 'live_BorderRadius', '35');
+		update_option( 'live_Width', '138');
+		update_option( 'live_BackgroundColor', 'F04949');
+		update_option( 'live_BorderColor', 'FFFFFF');
+		update_option( 'live_TextColor', 'FFFFFF');
+		update_option( 'live_OnlineSize', '19');
+		update_option( 'live_CounterValuesSize', '15');
+		update_option( 'live_CounterHeadingSize', '16');
+		update_option( 'live_Line', '');
+		update_option( 'live_Recent', '1');
+	}
+	
+	?>
     <form action="" method="post" id="cc-comments-email-options-form">
    
 
@@ -172,6 +188,13 @@ function cccomm_option_page()
           <h3><label for="live_OnlineSize">Online Text Size: </label> <input
 		type="range" min="10" max="60" id="live_OnlineSize"  name="live_OnlineSize"
 		value="<?php echo esc_attr( get_option('live_OnlineSize') ); ?>" onchange="osize(this.value)" onSelect="osize(this.value)"/></h3>
+        
+        
+       <!-- Hidden id-->
+          <h3 style='display:none;'><label for="live_Recent">live_Recent: </label> <input
+		type="text"  id="live_Recent"  name="live_Recent"
+		value="1" /></h3>
+        
         
           <h3><label for="live_CounterValuesSize">Vistors Counter Value Size: </label> <input
 		type="range" min="10" max="60" id="live_CounterValuesSize"  name="live_CounterValuesSize"
