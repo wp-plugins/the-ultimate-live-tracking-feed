@@ -61,7 +61,7 @@ Yes. You can use colour picker to customize complete look and feel.
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.0.2 =
 * Minor Bug Fixes
 
 = 1.0.1 =
