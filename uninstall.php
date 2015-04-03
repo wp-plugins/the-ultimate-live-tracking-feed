@@ -1,7 +1,7 @@
 <?php
 /**
  * @link       http://www.live.nimlinks.com
- * @since      1.0.1
+ * @since      1.0.2
  * @author	   Nimish Gupta
  */
 

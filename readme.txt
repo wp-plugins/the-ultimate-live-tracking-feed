@@ -4,7 +4,7 @@ Donate link: http://www.live.nimlinks.com/donation/
 Tags: nimlinks,live.nimlinks, live, traffic, live traffic, live users, online users, browsing users, traffic widget,The Ultimate Live Tracking Feed,The ultimate live tracker
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPL v3
 License URI: http://www.gnu.org/copyleft/gpl.html
 
@@ -60,6 +60,9 @@ Yes. You can use colour picker to customize complete look and feel.
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Minor Bug Fixes
 
 = 1.0.1 =
 * Bugs Fixes .
